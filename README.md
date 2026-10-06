@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Jeffrey (most people call me Jeff) and I am currently a Data Science major at Oregon State University. I currently work in finance but have a wide range of interests including science and math. Data is a big part of the finance industry being used daily to make decisions, price products, and determine rates. I am hoping to learn more about how Data Science is used in the professional setting to apply myy skills of math and analysis.
+
+
+
 <!--
 **JeffreyBunge/JeffreyBunge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
